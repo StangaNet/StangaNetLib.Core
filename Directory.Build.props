@@ -1,0 +1,17 @@
+<Project>
+  <PropertyGroup>
+    <Authors>StangaNet</Authors>
+    <Company>StangaNet</Company>
+    <Copyright>Copyright (c) StangaNet. All rights reserved.</Copyright>
+    <PackageProjectUrl>https://github.com/StangaNet/StangaNetLib.Core</PackageProjectUrl>
+    <RepositoryUrl>$(PackageProjectUrl)</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageOutputPath>$(MSBuildThisFileDirectory)artifacts</PackageOutputPath>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);CS1591;NU1903</NoWarn>
+  </PropertyGroup>
+</Project>

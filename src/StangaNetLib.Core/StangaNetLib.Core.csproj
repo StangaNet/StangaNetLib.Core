@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net9.0</TargetFrameworks>
+    <AssemblyName>StangaNetLib.Core</AssemblyName>
+    <RootNamespace>StangaNetLib.Core</RootNamespace>
+    <Description>Foundation library for Clean Architecture: Result, Entity, DomainEvent, Specifications, Guards, Pagination. No external dependencies.</Description>
+    <PackageTags>clean-architecture;ddd;result;guard;specification;domain-events;pagination</PackageTags>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+</Project>
