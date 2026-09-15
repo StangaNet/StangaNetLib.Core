@@ -1,12 +1,12 @@
 ﻿<Project>
   <PropertyGroup>
-    <Authors>StangaNet</Authors>
+    <Authors>Stangherlin Enrico</Authors>
     <Company>StangaNet</Company>
     <Copyright>Copyright (c) StangaNet. All rights reserved.</Copyright>
     <PackageProjectUrl>https://github.com/StangaNet/StangaNetLib.Core</PackageProjectUrl>
     <RepositoryUrl>$(PackageProjectUrl)</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageOutputPath>$(MSBuildThisFileDirectory)artifacts</PackageOutputPath>
     <IncludeSymbols>true</IncludeSymbols>

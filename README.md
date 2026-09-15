@@ -1,7 +1,7 @@
 # StangaNetLib.Core
 
 [![.NET CI](https://github.com/StangaNet/StangaNetLib.Core/actions/workflows/main.yml/badge.svg)](https://github.com/StangaNet/StangaNetLib.Core/actions/workflows/main.yml)
-![NuGet](https://img.shields.io/badge/nuget-1.0.1-blue)
+![NuGet](https://img.shields.io/badge/nuget-1.0.2-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0%20%7C%209.0-512BD4)
 
 StangaNetLib.Core is a lightweight, zero-dependency foundation for implementing Clean Architecture and Domain-Driven Design (DDD) in .NET. It provides the essential primitives required to build robust, testable, and maintainable domain models.
@@ -28,7 +28,7 @@ The package is hosted on **GitHub Packages**.
 
 ```xml
 <!-- .csproj -->
-<PackageReference Include="StangaNetLib.Core" Version="1.0.1" />
+<PackageReference Include="StangaNetLib.Core" Version="1.0.2" />
 ```
 
 ---
