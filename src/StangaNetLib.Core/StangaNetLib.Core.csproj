@@ -1,6 +1,6 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net8.0;net9.0</TargetFrameworks>
+    <TargetFrameworks>net8.0;net9.0;net10.0</TargetFrameworks>
     <AssemblyName>StangaNetLib.Core</AssemblyName>
     <RootNamespace>StangaNetLib.Core</RootNamespace>
     <Description>Foundation library for Clean Architecture: Result, Entity, DomainEvent, Specifications, Guards, Pagination. Depends only on Microsoft.Extensions.Options (for SettingsValidatorBase).</Description>

@@ -5,4 +5,4 @@
 - Keep the public API surface small, documented (`///`), and free of infrastructure concerns (no EF, no HTTP).
 - Ports such as `IRepository`, `IUnitOfWork`, and `IDomainEventDispatcher` stay as abstractions — do not add in-library implementations.
 - Match existing naming, file-scoped namespaces, and EditorConfig / Roslyn conventions.
-- Tests use xUnit v3 + FluentAssertions; cover both `net8.0` and `net9.0` when changing shared behavior.
+- Tests use xUnit v3 + FluentAssertions; cover `net8.0`, `net9.0`, and `net10.0` when changing shared behavior.
