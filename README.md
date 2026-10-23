@@ -1,7 +1,7 @@
 # StangaNetLib.Core
 
 [![.NET CI](https://github.com/StangaNet/StangaNetLib.Core/actions/workflows/main.yml/badge.svg)](https://github.com/StangaNet/StangaNetLib.Core/actions/workflows/main.yml)
-![NuGet](https://img.shields.io/badge/nuget-1.0.0-blue)
+![NuGet](https://img.shields.io/badge/nuget-1.0.1-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0%20%7C%209.0%20%7C%2010.0-512BD4)
 
 StangaNetLib.Core is a lightweight foundation for Clean Architecture and Domain-Driven Design (DDD) in .NET. It provides essential primitives for robust, testable domain models: `Result<T>`, entities, aggregate roots, specifications, guards, and more.
